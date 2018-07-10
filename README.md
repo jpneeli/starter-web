@@ -17,3 +17,9 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Deployment of changes
+
+## Testing
+
+Example to show the testing stage
+
+Additional modifications
