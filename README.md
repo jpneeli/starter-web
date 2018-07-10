@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 This is a sample text to give demonstration
 
+# Introduction
+
+This is some sample text
+
 ## Purpose
 
 Sample website with plenty of files for demos
