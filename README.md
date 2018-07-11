@@ -23,3 +23,7 @@ Deployment of changes
 Example to show the testing stage
 
 Additional modifications
+
+### Copyright
+
+2014 Git.Training.
